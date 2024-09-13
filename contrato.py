@@ -1,4 +1,4 @@
-from pydantic import BaseModel, EmailStr, validate_call, PositiveFloat, PositiveInt 
+from pydantic import BaseModel, EmailStr, PositiveFloat, PositiveInt 
 from datetime import datetime
 from enum import Enum
 
